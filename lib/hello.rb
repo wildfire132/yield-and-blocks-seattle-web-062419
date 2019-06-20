@@ -1,6 +1,7 @@
 def hello_t(array)
-  
-  while 
+  counter = 0
+  while counter < array.length
+    counter += 1
 
 end
 
